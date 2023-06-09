@@ -1,0 +1,10 @@
+Steps to add a new map project:
+1.) Open Unity Hub and go to the Projects tab on the left.
+2.) Click "New Project" and make sure the 3D option is selected.
+3.) Give the project a name WITH NO SPACES and set the Location to the same directory this text file is in.
+4.) Let it create the project.
+5.) VERY IMPORTANT!!!!!!!!
+	When it is done, you must copy the "template.gitignore" file in this directory into the new one that Unity has just made and rename it to ".gitignore".
+6.) In the new project directory, make the "Blender" and "Solidworks" folders in "Assets".
+7.) Push the new project into the repo.
+8.) Import the IntruderMM package into your project.
